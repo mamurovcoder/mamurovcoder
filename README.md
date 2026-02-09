@@ -11,6 +11,9 @@ Hi! I'm Miryunus Mamurov, a frontend developer passionate about building respons
 - TailwindCSS, Bootstrap
 - Git & GitHub
 
+
+![Sening GitHub Statisitkang](https://github-readme-stats.vercel.app/api?username=mamurovcoder&show_icons=true&theme=dark)
+
 ## Contact
 - Email: miryunusmamurov171@gmail.com
 - Telegram: [@Miryunus_Mamurov](https://t.me/Miryunus_Mamurov)
