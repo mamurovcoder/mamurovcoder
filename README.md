@@ -13,10 +13,3 @@ Hi! I'm Miryunus Mamurov, a frontend developer passionate about building respons
 
 
 
-
-
-## Contact
-- Email: miryunusmamurov171@gmail.com
-- Telegram: [@Miryunus_Mamurov](https://t.me/Miryunus_Mamurov)
-- Portfolio: [Link](https://mamurovcoder.github.io/portfolio)
-
