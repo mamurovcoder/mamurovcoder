@@ -12,7 +12,7 @@ Hi! I'm Miryunus Mamurov, a frontend developer passionate about building respons
 - Git & GitHub
   <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs&perline=10" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-005571?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
 
