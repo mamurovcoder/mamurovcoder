@@ -12,7 +12,8 @@ Hi! I'm Miryunus Mamurov, a frontend developer passionate about building respons
 - Git & GitHub
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mamurovcoder&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mamurovcoder&theme=tokyonight&hide_border=true&v=1)](https://git.io/streak-stats)
+
 
 
 ## Contact
