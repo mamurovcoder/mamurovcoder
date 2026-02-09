@@ -12,7 +12,7 @@ Hi! I'm Miryunus Mamurov, a frontend developer passionate about building respons
 - Git & GitHub
 
 
-![Sening GitHub Statisitkang](https://github-readme-stats.vercel.app/api?username=mamurovcoder&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mamurovcoder&theme=dark)](https://git.io/streak-stats)
 
 ## Contact
 - Email: miryunusmamurov171@gmail.com
