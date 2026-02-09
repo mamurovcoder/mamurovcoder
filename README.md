@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 # About Me:
-Frontend developer | React.js & Tailwind enthusiast | Open-source projects
-Hi! I'm Miryunus Mamurov, a frontend developer passionate about building responsive and modern web applications using React.js, Next.js, and TailwindCSS.
+Hi! I'm Miryunus Mamurov, a frontend developer specializing in building modern, responsive, and user-friendly web applications. I work primarily with React.js, Next.js, and TailwindCSS, focusing on clean code, scalability, and seamless user experiences. Passionate about open-source and continuous learning.
+
 
 # Socials:
 
