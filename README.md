@@ -16,6 +16,9 @@ Hi! I'm Miryunus Mamurov, a frontend developer specializing in building modern, 
   <a href="https://www.instagram.com/m1ryunus_05" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="mailto:miryunusmamurov171@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 # Tech stack:
