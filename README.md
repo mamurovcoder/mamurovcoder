@@ -12,7 +12,8 @@ Hi! I'm Miryunus Mamurov, a frontend developer passionate about building respons
 - Git & GitHub
 
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=mamurovcoder&show_icons=true&count_private=true&hide=stars&hide=prs&hide=issues&hide=contribs=false&theme=dark)](https://github.com/mamurovcoder)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=mamurovcoder&show_icons=true&count_private=true&theme=radical&hide_border=true)](https://github.com/mamurovcoder)
+
 
 
 
